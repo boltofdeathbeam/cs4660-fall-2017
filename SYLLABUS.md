@@ -84,7 +84,7 @@ The schedule below is tentative and is subject to change.
 | 7  [10/07]         | [Adversarial search][7] |  |
 | 8  [10/14]         | [Monte Carlo Tree Search][8] | [Homework 2][11], Quiz 2 |
 | 9  [10/21]         | [Concepts of Machine Learning, Jupyter, NumPy][14]| Lab 1 |
-| 10 [10/28]         | Decision Trees |  |
+| 10 [10/28]         | [Decision Trees][15] |  |
 | 11 [11/04]         | Logistic Regression|  |
 | 12 [11/11]         | Naive Bayes|  |
 | 13 [11/18]         | Classic Computer Vision Sampler|  |
@@ -106,5 +106,6 @@ The schedule below is tentative and is subject to change.
 [12]: notes/homeworks/homework3.md
 [13]: notes/homeworks/homework4.md
 [14]: notes/lecture_notes_week9_ML_overview.ipynb
+[15]: notes/lec_decision_trees.ipynb
 
 
