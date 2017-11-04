@@ -9,7 +9,7 @@
 
 - **Instructors** Hsiang-Yu (Eric) Liao [rcliao01@gmail.com](mailto:rcliao01@gmail.com), Mark Sargent [msargen2@calstatela.edu](mailto:msargen2@calstatela.edu)
 - **Lecture** Saturday 8:00 AM to 10:45 AM
-- **Office Hours** Eric: Saturday 10:45 AM to 12:00 PM or online 24/7, Mark: Fri 9am to 12pm
+- **Office Hours** Eric: Saturday 10:45 AM to 12:00 PM or online 24/7, Mark: 12-1pm Tues, Thur,  3-4, Thur, A310A
 - **Office Hours Location** E&T A310 (the old Senior Design room)
 - **Lecture Location** SH C141
 - **Text Book** None as we will have all notes hosted either on Github or on CSNS.
