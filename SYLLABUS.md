@@ -85,8 +85,8 @@ The schedule below is tentative and is subject to change.
 | 8  [10/14]         | [Monte Carlo Tree Search][8] | [Homework 2][11], Quiz 2 |
 | 9  [10/21]         | [Concepts of Machine Learning, Jupyter, NumPy][14]| Lab 1 |
 | 10 [10/28]         | [Decision Trees][15] |  |
-| 11 [11/04]         | Logistic Regression|  |
-| 12 [11/11]         | Naive Bayes|  |
+| 11 [11/04]         | Naive Bayes[16]|  |
+| 12 [11/11]         | OpenCV introduction|  |
 | 13 [11/18]         | Classic Computer Vision Sampler|  |
 | 14 [11/25]         | Pedestrian detection using SVM + HOG|  |
 | 15 [12/02]         | Object Detection|  |
@@ -107,5 +107,7 @@ The schedule below is tentative and is subject to change.
 [13]: notes/homeworks/homework4.md
 [14]: notes/lecture_notes_week9_ML_overview.ipynb
 [15]: notes/lec_decision_trees.ipynb
+[16]: notes/naive_bayes_lec.ipynb
+
 
 
