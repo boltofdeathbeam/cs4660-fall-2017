@@ -40,7 +40,7 @@
 ## Grade Allocation
 
 1. Quizzes 40 pts
-2. Homework/Lab (4) 40 pts (Mark's homeworks and labs will be normalized to 40 points)
+2. Homework/Lab (4) 40 pts (Mark's homeworks and labs will be normalized to 20 points)
 3. Course Project 1 20 pts
 4. Attendance 5 pts
 
