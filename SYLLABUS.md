@@ -86,7 +86,7 @@ The schedule below is tentative and is subject to change.
 | 9  [10/21]         | [Concepts of Machine Learning, Jupyter, NumPy][14]| Lab 1 |
 | 10 [10/28]         | [Decision Trees][15] |  |
 | 11 [11/04]         | [Naive Bayes][16] | Homework 3 |
-| 12 [11/11]         | Computer Vision/OpenCV Introduction Part 1[17]|  |
+| 12 [11/11]         | [Computer Vision/OpenCV Introduction Part 1][17]|  |
 | 13 [11/18]         | Computer Vision/OpenCV Introduction Part 2|  |
 | 14 [11/25]         | Object detection using SVM + HOG|  |
 | 15 [12/02]         | CNNs | |
