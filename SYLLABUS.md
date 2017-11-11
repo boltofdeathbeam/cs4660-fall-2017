@@ -89,7 +89,7 @@ The schedule below is tentative and is subject to change.
 | 12 [11/11]         | Computer Vision/OpenCV Introduction Part 1|  |
 | 13 [11/18]         | Computer Vision/OpenCV Introduction Part 2|  |
 | 14 [11/25]         | Object detection using SVM + HOG|  |
-| 15 [12/02]         | | CNNs | |
+| 15 [12/02]         | CNNs | |
 | Final [12/09]      | Computer Vision Project Presentations|  |
 
 [1]: notes/introduction.md
